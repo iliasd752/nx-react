@@ -2,6 +2,8 @@
 import styles from './app.module.scss';
 
 import NxWelcome from './nx-welcome';
+import React from 'react';
+
 
 export function App() {
   return (
